@@ -1,2 +1,3 @@
 # IPicanha
-Web application of a barbecue menu
+Web application of a barbecue menu using Spring Boot
+
